@@ -1,0 +1,12 @@
+{
+  "name": "rest_cp_insp",
+  "version": "1.0.0",
+  "description": "restaurant landing app",
+  "repository": {
+     "url": "https://example.com/your-username/my-new-project",
+     "type": "git"
+  },
+  "main": "index.js",
+  "author": "Curdarious Bell <Curdarious23@gmail.com>",
+  "license": "MIT"
+}
