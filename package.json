@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "restaurant landing app",
   "repository": {
-     "url": "https://example.com/your-username/my-new-project",
+     "url": "https://github.com/CDev94/rest_cp_insp",
      "type": "git"
   },
   "main": "index.js",
